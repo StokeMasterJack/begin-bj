@@ -1,2 +1,0 @@
-# begin-bj
-Begin app
